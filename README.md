@@ -35,8 +35,8 @@ $ npx expo start # To Start the project
 > Att: You can use npm instead, is up to you.
 
 <hr>
-<center><img width="200" alt="Captura de ecrã 2024-02-23, às 01 56 38" src="https://github.com/JersyFernandesJF/NewsAPP/assets/102835855/da658e89-a989-4bd8-94a3-357d374008bc">
-
+<center>
+<img width="600" alt="Captura de ecrã 2024-02-23, às 01 56 38" src="https://github.com/JersyFernandesJF/NewsAPP/assets/102835855/da658e89-a989-4bd8-94a3-357d374008bc">
 </center>
 <hr>
 <center>
