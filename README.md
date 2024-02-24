@@ -1,6 +1,6 @@
 ## NewsAPP
 
-NewsAPP are the that you should have to read news.
+NewsAPP are the that you should have to read news, i only used static data on this project.
 
 <hr>
 
@@ -11,6 +11,7 @@ Some of the core tech stacks are:
 - [React Native](https://reactnative.dev/)
 - [Expo Dev](https://expo.dev/)
 - [Styled Components](https://styled-components.com/)
+- [TypeScript](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
 
 ### How to run
 
